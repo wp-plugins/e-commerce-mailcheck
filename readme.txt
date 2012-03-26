@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: leewillis77
-Donate link: http://plugins.leewillis.co.uk/
+Donate link: http://plugins.leewillis.co.uk/e-commerce-mailcheck-documentation/mailcheck-wordpress-e-commerce/
 Tags: e-commerce
 Requires at least: 3.0
 Tested up to: 3.3.1
