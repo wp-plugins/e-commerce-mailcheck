@@ -3,7 +3,7 @@ Contributors: leewillis77
 Donate link: http://plugins.leewillis.co.uk/
 Tags: e-commerce
 Requires at least: 3.0
-Tested up to: 3.1.2
+Tested up to: 3.3.1
 Stable tag: 1.0
 
 Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce, Jigoshop, or WooCommerce to help you get your customer's details right - first time.
