@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: leewillis77
-Donate link: http://plugins.leewillis.co.uk/e-commerce-mailcheck-documentation/mailcheck-wordpress-e-commerce/
+Donate link: http://plugins.leewillis.co.uk/donate/
 Tags: e-commerce
 Requires at least: 3.0
 Tested up to: 3.3.1
@@ -10,7 +10,7 @@ Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce
 
 == Description ==
 
-Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce, Jigoshop, or WooCommerce to help you get your customer's details right - first time.
+Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce, Jigoshop, or WooCommerce to help you get your customer's details right - first time. Find out more at the [plugin homepage](http://plugins.leewillis.co.uk/e-commerce-mailcheck-documentation/mailcheck-wordpress-e-commerce/)
 
 == Installation ==
 
