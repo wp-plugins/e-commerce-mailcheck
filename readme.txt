@@ -14,7 +14,7 @@ Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce
 
 == Installation ==
 
-*You Must* already have one of the following plugins installed: 
+*You Must* already have ONE of the following plugins installed: 
 
 1. [WP e-Commerce](http://wordpress.org/extend/plugins/wp-e-commerce/), [Jigoshop](http://jigoshop.com/), or [WooCommerce](http://woothemes.com/woocommerce/)
 
@@ -25,6 +25,8 @@ Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce
 
 == Frequently Asked Questions ==
 
+* I use shopping cart XYZ - why isn't that supported?
+I picked the most popular WordPress shopping carts to support for the initial release. I'm open to accepting patches for other carts, or to look at integrating them - [get in touch here](http://plugins.leewillis.co.uk/contact/) if you have a patch or request.
 
 == Screenshots ==
 
