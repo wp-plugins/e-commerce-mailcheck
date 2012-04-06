@@ -17,11 +17,8 @@ Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce
 *You Must* already have ONE of the following plugins installed: 
 
 1. [WP e-Commerce](http://wordpress.org/extend/plugins/wp-e-commerce/), [Jigoshop](http://jigoshop.com/), or [WooCommerce](http://woothemes.com/woocommerce/)
-
 2. Install the plugin
-
 3. Enjoy!
-
 
 == Frequently Asked Questions ==
 
