@@ -29,7 +29,9 @@ Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce
 I picked the most popular WordPress shopping carts to support for the initial release. I'm open to accepting patches for other carts, or to look at integrating them - [get in touch here](http://plugins.leewillis.co.uk/contact/) if you have a patch or request.
 
 == Screenshots ==
-
+1. WP e-Commerce email checking
+2. WooCommerce email checking
+3. Jigoshop email checking
 
 == Changelog ==
 
