@@ -3,7 +3,7 @@
  Plugin Name: WP Cart Mailcheck
  Plugin URI: http://plugins.leewillis.co.uk/store/plugins/wp-cart-mailcheck/
  Description: Adds mailcheck.js to your checkout forms automatically for WP e-Commerce, Jigshop or WooCommerce
- Version: 1.0.1
+ Version: 1.0.2
  Author: Lee Willis
  Author URI: http://plugins.leewillis.co.uk/
 */

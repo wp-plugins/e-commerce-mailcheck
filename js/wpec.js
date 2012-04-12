@@ -1,5 +1,5 @@
 jQuery(document).ready(function() {
-	jQuery('div.wpsc_email_address input').on('blur', function() {
+	jQuery('.wpsc_email_address input').on('blur', function() {
 	    jQuery(this).mailcheck({
 	      suggested: function(element, suggestion) {
 	      	if ( jQuery ( '#wpcm-suggest' ).length < 1 ) {
