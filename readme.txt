@@ -2,7 +2,7 @@
 Contributors: leewillis77
 Donate link: http://plugins.leewillis.co.uk/donate/
 Tags: e-commerce
-Requires at least: 3.0
+Requires at least: 3.3
 Tested up to: 3.3.1
 Stable tag: 1.0.2
 
