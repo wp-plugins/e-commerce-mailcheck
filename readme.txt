@@ -3,7 +3,7 @@ Contributors: leewillis77
 Donate link: http://plugins.leewillis.co.uk/donate/
 Tags: e-commerce
 Requires at least: 3.3
-Tested up to: 3.3.1
+Tested up to: 3.4.1
 Stable tag: 1.0.3
 
 Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce, Jigoshop, or WooCommerce to help you get your customer's details right - first time.
@@ -14,7 +14,7 @@ Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce
 
 == Installation ==
 
-*You Must* already have ONE of the following plugins installed: 
+*You Must* already have ONE of the following plugins installed:
 
 1. [WP e-Commerce](http://wordpress.org/extend/plugins/wp-e-commerce/), [Jigoshop](http://jigoshop.com/), or [WooCommerce](http://woothemes.com/woocommerce/)
 2. Install the plugin
@@ -32,7 +32,7 @@ I picked the most popular WordPress shopping carts to support for the initial re
 
 == Changelog ==
 
-= 1.0.3 = 
+= 1.0.3 =
 * Added support for Shopp
 * Remove message if incorrect address is updated
 
