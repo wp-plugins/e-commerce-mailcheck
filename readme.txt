@@ -3,7 +3,7 @@ Contributors: leewillis77
 Donate link: http://plugins.leewillis.co.uk/donate/
 Tags: e-commerce
 Requires at least: 3.3
-Tested up to: 3.4.1
+Tested up to: 3.51
 Stable tag: 1.0.4
 
 Adds [mailcheck](https://github.com/Kicksend/mailcheck) support for your e-commerce checkout to help you get your customer's details right - first time.
