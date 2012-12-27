@@ -4,21 +4,25 @@ Donate link: http://plugins.leewillis.co.uk/donate/
 Tags: e-commerce
 Requires at least: 3.3
 Tested up to: 3.4.1
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
-Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce, Jigoshop, or WooCommerce to help you get your customer's details right - first time.
+Adds [mailcheck](https://github.com/Kicksend/mailcheck) support for your e-commerce checkout to help you get your customer's details right - first time.
 
 == Description ==
 
-Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce, Jigoshop, or WooCommerce to help you get your customer's details right - first time. Find out more at the [plugin homepage](http://plugins.leewillis.co.uk/e-commerce-mailcheck-documentation/mailcheck-wordpress-e-commerce/)
+Adds mailcheck (https://github.com/Kicksend/mailcheck) support for WP e-Commerce, Jigoshop, WooCommerce, Shopp or Easy Digital Downloads to help you get your customer's details right - first time. Find out more at the [plugin homepage](http://plugins.leewillis.co.uk/e-commerce-mailcheck-documentation/mailcheck-wordpress-e-commerce/)
 
 == Installation ==
 
-*You Must* already have ONE of the following plugins installed:
 
-1. [WP e-Commerce](http://wordpress.org/extend/plugins/wp-e-commerce/), [Jigoshop](http://jigoshop.com/), or [WooCommerce](http://woothemes.com/woocommerce/)
-2. Install the plugin
-3. Enjoy!
+
+1. *You Must* already have ONE of the following plugins installed:
+   * [WP e-Commerce](http://wordpress.org/extend/plugins/wp-e-commerce/)
+   * [Jigoshop](http://jigoshop.com/)
+   * [WooCommerce](http://woothemes.com/woocommerce/)
+   * [Easy Digital Downloads](https://easydigitaldownloads.com/)
+1. Install the plugin
+1. Enjoy!
 
 == Frequently Asked Questions ==
 
@@ -31,6 +35,9 @@ I picked the most popular WordPress shopping carts to support for the initial re
 3. Jigoshop email checking
 
 == Changelog ==
+
+= 1.0.4 =
+* Added support for [Easy Digital Downloads](http://wordpress.org/extend/plugins/easy-digital-downloads/)
 
 = 1.0.3 =
 * Added support for Shopp
